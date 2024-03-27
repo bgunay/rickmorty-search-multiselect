@@ -27,4 +27,4 @@ Short consultation, viewing and registration of favorite characters from the ser
 
 - Clone the repository.
 - Install the libraries using `npm` or any other package manager.
-- Run using `yarn start`. or `npm start`
+- Run using `npm start`. or `yarn start`
