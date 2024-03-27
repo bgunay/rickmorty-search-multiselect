@@ -9,7 +9,7 @@ This project was developed with the following technologies:
 - [Styled Components](https://styled-components.com/)
 - [Axios](https://github.com/axios/axios)
 
-## :computer: Projeto
+## :computer: Project
 
 Short consultation, viewing and registration of favorite characters from the series **Ricky & Morty.**
 
